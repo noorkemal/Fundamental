@@ -1,5 +1,7 @@
 # Fundamental
-Script FUNDAMENTAL
+Contoh Script Pyhthon FUNDAMENTAL
+
+
 message = ('Hello World')
 nama = ('Noor K Rachmanto')
 usia = 3
