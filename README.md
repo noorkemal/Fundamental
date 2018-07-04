@@ -2,10 +2,10 @@
 Contoh Script Pyhthon FUNDAMENTAL
 
 
-message = ('Hello World')
-nama = ('Noor K Rachmanto')
-usia = 3
-lingkar_perut = 20,5
+-message = ('Hello World')
+-nama = ('Noor K Rachmanto')
+-usia = 3
+-lingkar_perut = 20,5
 
 print(message)
 print(nama)
